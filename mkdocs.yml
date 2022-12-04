@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: chani's blog
+
+# theme:
+#   name: material
+#   palette:
+#     scheme: default
+#     primary: blue gray
+
